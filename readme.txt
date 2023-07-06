@@ -1,6 +1,6 @@
 initial content
 
-SECRET TEXT
+SECRET0TEXT
 
 some other content
 
